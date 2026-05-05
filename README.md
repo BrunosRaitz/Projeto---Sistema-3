@@ -9,3 +9,4 @@ Lista componentes:
 Arduino UNO;
 Sensor de fumaça;
 
+<img width="1024" height="768" alt="White Minimalist Modern Recruitment Process Flowchart" src="https://github.com/user-attachments/assets/7a6aadb4-b718-43ab-8b51-1a462ab0eeed" />
