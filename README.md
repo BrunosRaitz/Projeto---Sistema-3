@@ -1,3 +1,7 @@
+
+
+
+
 # Projeto---Sistema-3
 
 Integrantes da equipe: Bruno, Wendell. Giovanni, Oitavio
@@ -18,13 +22,7 @@ Interruptor
 <img width="4032" height="3024" alt="IMG_2889" src="https://github.com/user-attachments/assets/f29e33a0-b66d-4dd8-bf14-1dba7030abbe" />
 
 
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/a183f7dd-53ba-4ce8-a0a9-3c46daa1700c
 
 <img width="4032" height="3024" alt="IMG_2891" src="https://github.com/user-attachments/assets/db6c2239-3547-48b1-9427-27255fa27946" />
 <img width="4032" height="3024" alt="IMG_2890" src="https://github.com/user-attachments/assets/5d5a1503-3ab7-4488-a1d0-30ec3bf67246" />
