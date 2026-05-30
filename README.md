@@ -16,3 +16,15 @@ Interruptor
 <img width="1024" height="768" alt="White Minimalist Modern Recruitment Process Flowchart" src="https://github.com/user-attachments/assets/7a6aadb4-b718-43ab-8b51-1a462ab0eeed" />
 
 <img width="4032" height="3024" alt="IMG_2889" src="https://github.com/user-attachments/assets/f29e33a0-b66d-4dd8-bf14-1dba7030abbe" />
+
+
+
+
+
+
+
+
+
+
+<img width="4032" height="3024" alt="IMG_2891" src="https://github.com/user-attachments/assets/db6c2239-3547-48b1-9427-27255fa27946" />
+<img width="4032" height="3024" alt="IMG_2890" src="https://github.com/user-attachments/assets/5d5a1503-3ab7-4488-a1d0-30ec3bf67246" />
